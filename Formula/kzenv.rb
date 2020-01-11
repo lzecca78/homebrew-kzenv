@@ -12,7 +12,7 @@ class Kzenv < Formula
   conflicts_with "kustomize", :because => "kzenv symlinks kustomize binaries"
 
   def install
-    prefix.install ["bin", "libexec"]
+    prefix.install ["bin", "libexec","lib"]
   end
 
   test do
