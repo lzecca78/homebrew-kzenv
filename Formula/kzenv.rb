@@ -1,5 +1,5 @@
 class Kzenv < Formula
-  KUBENVZ_VERSION = "v0.1".freeze
+  KUBENVZ_VERSION = "v0.2".freeze
 
   desc "Installs Kzenv from github"
   homepage "https://github.com/lzecca78/kzenv"
