@@ -5,7 +5,7 @@ class Kzenv < Formula
   homepage "https://github.com/lzecca78/kzenv"
   url "https://github.com/lzecca78/kzenv/archive/#{KUBENVZ_VERSION}.zip"
   version #{KUBENVZ_VERSION}
-  sha256 'e3911129f239bfafac42debea0cf4e836087154232773052eb176fa404439982'
+  sha256 '46a3e75fcd17473c675e38a62e9ed584bb4cdaff1d646a3ddb06585fe4e03f75'
 
   bottle :unneeded
 
